@@ -63,7 +63,7 @@
       "latitude": 53,
       "longitute": 9
     },
-    "numberOfWheels": 5,
+    "numberOfWheels": 3,
     "fuelLevel": 0.7,
     "modelType": "BCLASS"
   }
