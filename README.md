@@ -60,6 +60,7 @@
   {
     "vehicleId": 0,
     "numberPlate": "HH-GO1337",
+    "locationID": 0,
     "coordinate": {
       "latitude": 53,
       "longitute": 9
