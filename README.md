@@ -38,6 +38,7 @@
   "properties": {
     "vehicleId": { "type": "integer" },
     "numberPlate": { "type": "string" },
+    "locationID": { "type": "integer" },
     "coordinate": {
       "type": "array",
       "properties": {
@@ -59,6 +60,7 @@
   {
     "vehicleId": 0,
     "numberPlate": "HH-GO1337",
+    "locationID": 0,
     "coordinate": {
       "latitude": 53,
       "longitute": 9
