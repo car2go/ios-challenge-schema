@@ -38,6 +38,7 @@
   "properties": {
     "vehicleId": { "type": "integer" },
     "numberPlate": { "type": "string" },
+    "locationID": { "type": "integer" },
     "coordinate": {
       "type": "array",
       "properties": {
